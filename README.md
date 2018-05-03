@@ -1,3 +1,1 @@
-# visit my personal homepage 
-# Utopia
-# https://hy30305340.github.io/
+This is my personal website!

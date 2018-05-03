@@ -1,0 +1,11 @@
+.container-wrap {
+    width: 100%;
+    height: 530px;
+    background-color: rgba(0,0,0,0.8);
+    white-space: nowrap;
+    overflow: hidden;
+    overflow-x: scroll;
+    -webkit-backface-visibility: hidden;
+    -webkit-overflow-scrolling: touch;
+
+}
